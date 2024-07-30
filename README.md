@@ -1,4 +1,4 @@
-# Welcome to Remix!
+# Welcome to remix-typescript-express
 
 - 📖 [Remix docs](https://remix.run/docs)
 
