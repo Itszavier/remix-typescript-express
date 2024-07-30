@@ -1,10 +1,13 @@
 # Welcome to remix-typescript-express
 
 - 📖 [Remix docs](https://remix.run/docs)
+  
+- `npx create-remix@latest --template https://github.com/Itszavier/remix-typescript-express`
+  
 
 ## Development
 
-Run the dev server:
+ Run the dev server:
 
 ```shellscript
 npm run dev
