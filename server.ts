@@ -36,3 +36,6 @@ async function startServer() {
     console.log("App listening on http://localhost:3000");
   });
 }
+
+
+startServer()
