@@ -2,7 +2,9 @@
 
 - 📖 [Remix docs](https://remix.run/docs)
   
-- `npx create-remix@latest --template https://github.com/Itszavier/remix-typescript-express`
+```bash
+npx create-remix@latest --template https://github.com/Itszavier/remix-typescript-express
+```
   
 
 ## Development
